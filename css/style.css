@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+}
+
+.header{
+    height: 100px;
+    background-color: coral;
+    text-align: center;
+    padding-top: 20px;
+    overflow: hidden;
+    
+}
+
+.left{
+    width: 70%;
+    background-color: darkgoldenrod;
+    float: left;
+    height: 500px;
+
+}
+
+.right{
+    width: 30%;
+    background-color: darkgreen;
+    float: left;
+    height: 500px;
+
+}
+
+.Footer{
+    background-color: darkorange;
+    text-align: center;
+    padding-top: 100px;
+    height: 1000px;
+}
